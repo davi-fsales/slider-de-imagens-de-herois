@@ -26,7 +26,7 @@ Meus maiores desafios foram:
 Meus maiores aprendizados giram em torno do uso correto e funcional do JavaScript. Já me sentia bem confortável nas partes que utilizavam HTML e CSS. As manipulações feitas no JavaScript foi a minha maior conquista nesse projeto.
 
 ## Demonstração
-
+<img widht="520px" height="300px" src="src/assets/to_readme/carrosselHerois.gif">
 
 
 <br><br><br>
