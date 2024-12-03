@@ -19,7 +19,7 @@ Meus maiores desafios foram:
   <li>Utilizar de forma funcional e limpa as funções do JavaScript</li>
   <li>Fazer o manejo correto das remoções e adições de classes utilizando as propriedades do JavaScript</li>
   <li>Deixar o designe bonito e moderno utilizando o CSS</li>
-  <li>Destribuir bem as funções de cada tecnoligia</li>
+  <li>Destribuir bem as funções de cada tecnologia</li>
 </ul>
 
 ## Aprendizados
